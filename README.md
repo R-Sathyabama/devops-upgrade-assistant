@@ -364,9 +364,9 @@ MIT License - see [LICENSE](LICENSE)
 
 ## 📧 Contact
 
-**Your Name** - [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](sathyabama1211@gmail.com)
+**R-Sathyabama** - [LinkedIn](https://www.linkedin.com/in/sathyabama-rajendiran/) | [Email](sathyabama1211@gmail.com)
 
-Project: [https://github.com/R-Sathyabama/devops-upgrade-assistant](https://github.com/R-Sathyabama/devops-upgrade-assistant)
+Project: [devops-upgrade-assistant](https://github.com/R-Sathyabama/devops-upgrade-assistant)
 
 ---
 
