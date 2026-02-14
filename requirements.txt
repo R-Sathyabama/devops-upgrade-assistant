@@ -1,0 +1,27 @@
+# DevOps Upgrade Intelligence Assistant - Requirements
+
+# Core Framework
+streamlit==1.31.0
+langchain==0.1.0
+langchain-community==0.0.13
+
+# LLM & Embeddings
+sentence-transformers==2.3.1
+transformers==4.36.2
+torch==2.1.2
+
+# Vector Database
+chromadb==0.4.22
+
+# Knowledge Graph (Optional)
+neo4j==5.14.0
+
+# Document Processing
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+html5lib==1.1
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
